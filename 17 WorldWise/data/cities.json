@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "id": "8e63",
+      "cityName": "Yadagirigutta",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-01-04T01:02:25.000Z",
+      "notes": "Good place to worship SRI LAKSHMI NARASIMHA SWAMY...",
+      "position": {
+        "lat": "17.605855289310323",
+        "lng": "79.01418627441538"
+      }
+    },
+    {
+      "id": "47a5",
+      "cityName": "Alampur",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2010-03-10T01:20:30.000Z",
+      "notes": "",
+      "position": {
+        "lat": "15.877789626117037",
+        "lng": "78.13300071290706"
+      }
+    },
+    {
+      "id": "1f9e",
+      "cityName": "Hyderabad",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-02-29T16:23:57.000Z",
+      "notes": "Capital City of Telangana",
+      "position": {
+        "lat": "17.357944470047308",
+        "lng": "78.48072398067849"
+      }
+    }
+  ]
+}
